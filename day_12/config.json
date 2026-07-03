@@ -1,0 +1,13 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 80,
+        "username": "admin",
+        "password": "super-secret",
+        "database": "my_db"
+    },
+   "api": {
+        "baseUrl": "https://api.example.com",
+        "timeout": 30
+    }
+}

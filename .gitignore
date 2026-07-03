@@ -1,0 +1,28 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraform.tfstate.lock.info
+.terraform.lock.hcl
+
+# Local config files
+*.tfvars
+*.tfvars.json
+.terraformrc
+terraform.rc
+
+# Sensitive files
+*.pem
+*.key
+*.crt
+*.cer
+
+# OS generated files
+.DS_Store
