@@ -11,7 +11,6 @@ override.tf.json
 *_override.tf.json
 .terraform.tfstate.lock.info
 .terraform.lock.hcl
-
 # Local config files
 *.tfvars
 *.tfvars.json
